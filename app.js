@@ -105,3 +105,20 @@ btn[2].onclick = function(){
     }
     this.classList.add("active")
 }
+
+
+// const container=document.querySelectorAll(".testimonial");
+// const btn=document.querySelectorAll(".btn");
+
+// btn.forEach((el,i)=>
+// {
+//   el.addEventListener("click",()=>{
+//   document.querySelector(".active").classList.remove("active")
+
+//   container[i].classList.add("active")
+//   },false)
+
+// })
+
+
+
